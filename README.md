@@ -7,3 +7,8 @@ Aplicação que simula no momento a funcionalidade de carrinho de compras de uma
 - Authenticação
 - Criação de pedido
 - Administração do site
+
+# Creditos:
+
+INSTRUTOR
+Macoratti Macoratti
